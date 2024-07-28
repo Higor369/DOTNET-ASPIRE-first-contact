@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Curso.Aspire.Web/1.0.0": {
+        "runtime": {
+          "Curso.Aspire.Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Curso.Aspire.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
